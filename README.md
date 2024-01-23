@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ThomasMwaba
-- 👀 I’m interested in Data Science, Machine Learning and AI.
-- 🌱 I’m currently learning Statistics and probability and doing some personal projects.
-- 💞️ I’m looking to collaborate on Data analytics, Machine Learning and AI.
-- 📫 How to reach me on linkedin, linkedin.com/in/mwangelwa-thomas-mwaba-0a48b6119
+- I’m interested in Data Science, Machine Learning and mathematics.
+- I would like to team up on Data Science and Data Analytical projects.
+- I am  learning Deep Learning with PyTorch and Quantum Computing.
+- 📫 How to reach me on linkedin, linkedin.com/in/mwangelwa-thomas-mwaba
 
 <!---
 ThomasMwaba/ThomasMwaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
