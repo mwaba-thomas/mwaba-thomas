@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThomasMwaba
-- I’m interested in Data Science, Machine Learning and mathematics.
+- I’m interested in Data Science, Machine Learning and Mathematics.
 - I would like to team up on Data Science and Data Analytical projects.
-- I am  learning Deep Learning with PyTorch and Quantum Computing right now.
+- I am  learning Deep Learning with PyTorch and Quantum Computing at the moment.
 - 📫 You can reach me on linkedin, linkedin.com/in/mwangelwa-thomas-mwaba
 
 <!---
