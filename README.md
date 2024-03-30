@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasMwaba
-- I’m interested in Machine Learning, Cloud Computing and Python Programming
-- I am  learning PyTorch , Backend Development and AWS Certified Developer Associate
+- I’m interested in Cloud Computing and Python Programming 
+- I am  learning Backend Development (Django Framework) and AWS Certified Developer Associate
 - 📫 You can reach me on linkedin, linkedin.com/in/mwangelwa-thomas-mwaba
 
 <!---
