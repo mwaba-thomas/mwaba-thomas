@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomas-Mwaba
+- 👋 Hi, I’m Thomas Mwaba
 - I am  Backend Developer (Django Framework) and AWS Certified Developer Associate
 - 📫 You can reach me on linkedin, linkedin.com/in/thomas-mwaba/
 
