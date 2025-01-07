@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Thomas Mwaba
-- I am  MSc Applied Mathematics Student, Data Analyst and Backend Developer (Django Framework) and AWS Certified Developer Associate
+- I have a BSC in Applied Mathematics and AWS Certified Developer Associate
+- I am currently learning Data Structures and Algorithmns
 - 📫 You can reach me on linkedin, linkedin.com/in/thomas-mwaba/
 
 <!---
