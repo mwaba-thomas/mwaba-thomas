@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Mwaba
 - I have a BSC in Applied Mathematics and AWS Certified Developer Associate
-- I am currently learning Data Structures and Algorithmns
+- I am currently learning Data Structures and Algorithmns and Matlab
 - 📫 You can reach me on linkedin, linkedin.com/in/thomas-mwaba/
 
 <!---
