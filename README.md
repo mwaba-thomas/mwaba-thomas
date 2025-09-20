@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thomas Mwaba
 - I have a BSC in Applied Mathematics and AWS Certified Developer Associate
-- I am currently learning Data Structures and Algorithmns and  MATLAB
-- 📫 You can reach me on linkedin, linkedin.com/in/thomas-mwaba/
+- I am currently completing my master's degree in Applied Mathematics
+- 📫 You can reach me on LinkedIn, linkedin.com/in/thomas-mwaba/
 
 <!---
 ThomasMwaba/ThomasMwaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
